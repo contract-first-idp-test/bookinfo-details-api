@@ -1,0 +1,10 @@
+openapi: 3.0.3
+info:
+  title: details
+  description: |-
+    Details API
+  version: 'v1'
+servers:
+  - url: "http://localhost:8080"
+  - url: "https://microcks-microcks.apps.cluster-zpqtb.zpqtb.sandbox2275.opentlc.com/rest/details/v1"
+paths: {}
